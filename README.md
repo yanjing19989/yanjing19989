@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanjing19989&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yanjing19989/yanjing19989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
