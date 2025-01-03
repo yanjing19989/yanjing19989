@@ -3,7 +3,7 @@
 <p align="center">
   <img height="207em" src="https://github-readme-stats.vercel.app/api?username=yanjing19989&show_icons=true&theme=github_dark" align = "center"/>
   <br></br>
-  <img height="207em" src="https://streak-stats.demolab.com/?user=yanjing19989&theme=github-dark-blue" align = "center"/>
+  <img src="https://streak-stats.demolab.com/?user=yanjing19989&theme=github-dark-blue" align = "center"/>
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanjing19989&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
